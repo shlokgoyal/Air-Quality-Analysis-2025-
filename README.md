@@ -1,0 +1,1 @@
+To analyze air pollution levels across Indian cities/districts, assess temporal trends, and develop a Breathability Risk Index (BRI) that combines air quality, population exposure, and health burden. This can simulate urban risk mapping for insurers or public health policy.
