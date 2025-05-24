@@ -1,6 +1,20 @@
 # 🏭 Air Quality Analysis
 This project analyzes air quality data across various Indian states using pollutant-level measurements. It includes data preprocessing, exploratory data analysis, and the creation of a "Breathability Risk Index" (BRI) to categorize the relative air pollution risk per state. The insights can aid public health understanding, policy making, and risk assessment for insurance or environmental planning.
 
+## 🗄️ Data Source
+The air quality dataset used in this project was obtained from the Government of India’s Open Data Platform:
+🔗 [Real-Time Air Quality Index Data](https://www.data.gov.in/catalog/real-time-air-quality-index)
+
+* Provider: Central Pollution Control Board (CPCB), Ministry of Environment, Forest and Climate Change, Government of India
+* Access Type: Publicly available
+* Data Format: CSV
+* Scope: Includes real-time measurements from pollution monitoring stations across Indian states and union territories.
+* Parameters Measured: Includes various pollutant metrics such as PM2.5, PM10, NO₂, SO₂, CO, O₃, NH₃, along with location, timestamps, and metadata.
+
+This dataset serves as a foundational resource for environmental monitoring, public health analysis, and climate policy research.
+
+
+
 ## 📁 Project Structure
 * data/aq_data_230525.csv: Raw dataset containing air pollution levels and metadata.
 * preprocessing.py: Script for cleaning and imputing missing values.
