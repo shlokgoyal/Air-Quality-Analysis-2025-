@@ -60,6 +60,7 @@ Generated via map_visuals_bri.py:
   * Interactive Folium map showing:
     * State-wise BRI
     * Risk categories via color-coded markers:
+      
       🟢 Low Risk
       🟠 Moderate Risk
       🔴 High Risk
