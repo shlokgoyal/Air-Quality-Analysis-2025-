@@ -1,9 +1,10 @@
-# Air Quality Analysis
+# 🏭 Air Quality Analysis
 This project analyzes air quality data across various Indian states using pollutant-level measurements. It includes data preprocessing, exploratory data analysis, and the creation of a "Breathability Risk Index" (BRI) to categorize the relative air pollution risk per state. The insights can aid public health understanding, policy making, and risk assessment for insurance or environmental planning.
 
-## Project Structure
-* aq_data_230525.csv: Raw dataset containing air pollution levels and metadata.
+## 📁 Project Structure
+* data/aq_data_230525.csv: Raw dataset containing air pollution levels and metadata.
 * preprocessing.py: Script for cleaning and imputing missing values.
+* data/aq_data_230525_updated.csv: Processed dataset with imputed missing values.
 * EDA.py: Exploratory Data Analysis and BRI computation.
 * map_visuals_bri.py: Generates an interactive map visualization for BRI across states.
 
@@ -62,7 +63,9 @@ Generated via map_visuals_bri.py:
     * Risk categories via color-coded markers:
       
       🟢 Low Risk
+      
       🟠 Moderate Risk
+      
       🔴 High Risk
 
 ## 🧠 Conclusion & Insights
