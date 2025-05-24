@@ -5,6 +5,7 @@ This project analyzes air quality data across various Indian states using pollut
 The air quality dataset used in this project was obtained from the Government of India’s Open Data Platform:
 
 🔗 [Real-Time Air Quality Index Data](https://www.data.gov.in/catalog/real-time-air-quality-index)
+<a href="https://google.com" target = '_blank'>link<a/>
 
 * Provider: Central Pollution Control Board (CPCB), Ministry of Environment, Forest and Climate Change, Government of India
 * Access Type: Publicly available
