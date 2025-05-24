@@ -3,6 +3,8 @@ import matplotlib.pyplot as plt
 import seaborn as sns
 import numpy as np
 
+## Detailed Analysis is to be added in the reports folder
+
 #reading the csv file
 df = pd.read_csv('../../data/aq_data_230525_cleaned.csv')
 #getting infomation about the data
